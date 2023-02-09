@@ -16,7 +16,7 @@ I am a PhD Student in Bioengineering at the University of Padova, Italy.
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🚀 &nbsp;Some Tools I Have Used and Learned :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -24,6 +24,8 @@ I am a PhD Student in Bioengineering at the University of Padova, Italy.
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode " width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp; 
 </p>
 
 ---
@@ -34,3 +36,5 @@ I am a PhD Student in Bioengineering at the University of Padova, Italy.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtzeniMichele&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### 📈 &nbsp;My GitHub History!</h2>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
