@@ -36,5 +36,3 @@ I am a PhD Student in Bioengineering at the University of Padova, Italy.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtzeniMichele&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### 📈 &nbsp;My GitHub History!</h2>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
