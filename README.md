@@ -5,10 +5,10 @@
 </p>
 <p align="center">
 </p>
-<h1 align="center">
+<p align="center">
   Hey there 
-  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" alt="Waving hand gif">
-</h1>
+  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif">
+p>
 
 
 
