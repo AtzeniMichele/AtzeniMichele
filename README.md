@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/michele-atzeni-458292153"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-</p>
 <p align="center"> <h1 Hey there ><h1> <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="28" /p>
 <h1 align="center"> hey there <h1> <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" /p>
 
