@@ -5,7 +5,8 @@
 </p>
 <p align="center">
 </p>
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+# Hey there ![Alt Text](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 
 ### :man_technologist: &nbsp;About Me :
 
