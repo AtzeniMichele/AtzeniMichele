@@ -9,7 +9,7 @@
   Hey there 
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="28" /p>
 <h1 align="center"> hey there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40"> </h1>
-
+</p>
 
 ### :man_technologist: &nbsp;About Me :
 
