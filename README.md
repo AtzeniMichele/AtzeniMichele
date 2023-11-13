@@ -6,7 +6,7 @@
 <p align="center">
 </p>
 <p align="center">
-  Hey there 
+   <h1 Hey there ></h1>
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="28" /p>
 <h1 align="center"> hey there <h1> <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" /p>
 
